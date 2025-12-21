@@ -1,0 +1,17 @@
+# Unity generated folders (DO NOT PUSH)
+A-Life - CW2 - v2/Library/
+A-Life - CW2 - v2/Temp/
+A-Life - CW2 - v2/Obj/
+A-Life - CW2 - v2/Build/
+A-Life - CW2 - v2/Builds/
+A-Life - CW2 - v2/Logs/
+A-Life - CW2 - v2/UserSettings/
+
+# IDE / OS files
+.vs/
+.vscode/
+*.csproj
+*.sln
+Thumbs.db
+.DS_Store
+
